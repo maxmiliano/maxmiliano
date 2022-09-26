@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+My name is Max and I'm a Software Engineer working with Ruby on Rails and Android Development.
 
 <!--
 **maxmiliano/maxmiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
